@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$user = "root";
-$passwd = "";
-$name = "kereta_api";
+$host = "sql304.infinityfree.com";
+$user = "if0_34388892";
+$passwd = "YNRoaiuSfq";
+$name = "if0_34388892_wrnata";
 
 $conn = mysqli_connect($host, $user, $passwd, $name);
 
